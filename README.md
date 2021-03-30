@@ -8,7 +8,7 @@ Here are some of the simulations done using OpenAI GYM environment as a part of 
 Mountain Car climbing
 
 <p align="center">
-<img src="https://github.com/venkatramnank/MLProject_reinforcement_learning/blob/main/GraphsAndGIFs/mountaincar.gif" >
+<img src="https://github.com/venkatramnank/MLProject_reinforcement_learning/blob/main/GraphsAndGIFs/mountaincar.gif" width="500" height="300">
   </p>
 
 Lunar Lander
