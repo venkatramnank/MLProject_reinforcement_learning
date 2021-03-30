@@ -10,7 +10,7 @@ This is done as project work for the course Machine Learning.
 
 Note: Please download all openai simulation code from their Github website. Please follow the instructions given in that website properly.
 
-Note: Mujoco needs License. Go to Openai Mujoco docs to install with license.
+Note: Although Mujoco is not needed for this project , in case you want to use it, remember Mujoco needs License. Go to Openai Mujoco docs to install with license.
 
 ## OpenAI Simulations
 Here are some of the simulations done using OpenAI GYM environment as a part of Learning the concepts of RL.
