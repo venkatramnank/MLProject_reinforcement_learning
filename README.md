@@ -26,3 +26,15 @@ Bipedal Walker
  ## Shortest path using Q Learning
   
 The shortest path using Q learning is an example of RL solving Combinatorial optimization problems. It is usually applied for many situations like Delivery and Routing. 
+
+Given below is image of Q matrix and learning curve for a given graph of routers.
+<p>
+<img src="https://github.com/venkatramnank/MLProject_reinforcement_learning/blob/main/GraphsAndGIFs/shortestdistanceQ.png" >
+  </p>
+ 
+ The below graph shows the comparison wrt Dijkstra shortest path time.***
+ <p>
+<img src="https://github.com/venkatramnank/MLProject_reinforcement_learning/blob/main/GraphsAndGIFs/comparoQshortrst.png" >
+  </p>
+ *** For larger graphs Q learning takes quite some time. In such cases we use Deep Q Learning.
+ 
