@@ -9,6 +9,7 @@ This is done as project work for the course Machine Learning.
 - OS preferably: Ubuntu
 
 Note: Please download all openai simulation code from their Github website. Please follow the instructions given in that website properly.
+
 Note: Mujoco needs License. Go to Openai Mujoco docs to install with license.
 
 ## OpenAI Simulations
