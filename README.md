@@ -33,7 +33,7 @@ Bipedal Walker
 <img src="https://github.com/venkatramnank/MLProject_reinforcement_learning/blob/main/GraphsAndGIFs/walker.gif" width="500" height="300">
   </p>
   
- ## Shortest path using Q Learning
+ ## Case Study : Shortest path using Q Learning
   
 The shortest path using Q learning is an example of RL solving Combinatorial optimization problems. It is usually applied for many situations like Delivery and Routing. 
 
