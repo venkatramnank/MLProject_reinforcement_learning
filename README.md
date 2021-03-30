@@ -13,16 +13,16 @@ Mountain Car climbing
 
 Lunar Lander
 
-p align="center">
+<p align="center">
 <img src="https://github.com/venkatramnank/MLProject_reinforcement_learning/blob/main/GraphsAndGIFs/lunarlander.gif" >
   </p>
   
- Bipedal Walker
+Bipedal Walker
  
- p align="center">
+<p align="center">
 <img src="https://github.com/venkatramnank/MLProject_reinforcement_learning/blob/main/GraphsAndGIFs/walker.gif" >
   </p>
   
-  ## Shortest path using Q Learning
+ ## Shortest path using Q Learning
   
-  The shortest path using Q learning is an example of RL solving Combinatorial optimization problems. It is usually applied for many situations like Delivery and Routing. 
+The shortest path using Q learning is an example of RL solving Combinatorial optimization problems. It is usually applied for many situations like Delivery and Routing. 
