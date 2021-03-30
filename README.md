@@ -1,6 +1,6 @@
 # MLProject_reinforcement_learning
 This repo contains code for Shortest distance using Q Learning and Dynamic Modeling of Segway using Q Learning.
-This is done as project work for the courrse Machine Learning.
+This is done as project work for the course Machine Learning.
 
 ## Requirements
 
